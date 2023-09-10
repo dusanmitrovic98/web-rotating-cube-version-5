@@ -27,3 +27,4 @@ body, html {
     opacity: 0.9;
 }
 
+.front  { transform: rotateY(0deg) translateZ(100px); }
