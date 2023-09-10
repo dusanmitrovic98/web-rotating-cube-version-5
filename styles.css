@@ -24,3 +24,4 @@ body, html {
     height: 200px;
     background: url('texture.jpg'); /* You can replace 'texture.jpg' with your own texture image */
     border: 1px solid #fff;
+    opacity: 0.9;
