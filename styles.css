@@ -35,3 +35,4 @@ body, html {
 .bottom { transform: rotateX(-90deg) translateZ(100px); }
 
 @keyframes rotate {
+    0% { transform: rotateY(0deg); }
